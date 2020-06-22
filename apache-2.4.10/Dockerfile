@@ -1,4 +1,4 @@
-FROM profideo/debian-jessie
+FROM guillaume02/debian-jessie
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV HOME /root

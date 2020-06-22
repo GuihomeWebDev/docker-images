@@ -1,4 +1,4 @@
-FROM profideo/apache-2.4.10
+FROM guillaume02/apache-2.4.10
 
 # prevent Debian's PHP packages from being installed
 # https://github.com/docker-library/php/pull/542
